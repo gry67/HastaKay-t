@@ -1,0 +1,82 @@
+2023-09-01 16:27:21.0654 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-01 16:27:21.1036 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-01 16:27:21.1213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-01 16:27:21.1351 Info Configuration initialized.
+2023-09-01 16:27:51.0125 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-01 16:27:51.0493 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-01 16:27:51.0712 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-01 16:27:51.0911 Info Configuration initialized.
+2023-09-01 16:27:59.5201 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-01 16:27:59.5605 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-01 16:27:59.5805 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-01 16:27:59.5963 Info Configuration initialized.
+2023-09-01 16:28:12.3899 Info AppDomain Shutting down. LogFactory closing...
+2023-09-01 16:28:12.4073 Info LogFactory has been closed.
+2023-09-01 16:40:26.0283 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-01 16:40:26.0638 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-01 16:40:26.0825 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-01 16:40:26.0961 Info Configuration initialized.
+2023-09-01 16:51:48.0978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-01 16:51:48.1581 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-01 16:51:48.1729 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-01 16:51:48.1871 Info Configuration initialized.
+2023-09-04 10:14:52.3799 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-04 10:14:52.4235 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-04 10:14:52.4375 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-04 10:14:52.4497 Info Configuration initialized.
+2023-09-05 10:31:33.6106 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 10:31:33.6783 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 10:31:33.7034 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 10:31:33.7214 Info Configuration initialized.
+2023-09-05 10:35:08.8694 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 10:35:08.9040 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 10:35:08.9212 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 10:35:08.9343 Info Configuration initialized.
+2023-09-05 10:46:53.4542 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 10:46:53.4912 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 10:46:53.5094 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 10:46:53.5304 Info Configuration initialized.
+2023-09-05 10:51:53.2349 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 10:51:53.2656 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 10:51:53.2816 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 10:51:53.2952 Info Configuration initialized.
+2023-09-05 10:53:37.3194 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 10:53:37.3637 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 10:53:37.3965 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 10:53:37.4208 Info Configuration initialized.
+2023-09-05 10:54:34.0258 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 10:54:34.0565 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 10:54:34.0749 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 10:54:34.0907 Info Configuration initialized.
+2023-09-05 10:56:01.2844 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 10:56:01.3216 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 10:56:01.3466 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 10:56:01.3722 Info Configuration initialized.
+2023-09-05 10:57:09.7963 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 10:57:09.8543 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 10:57:09.8862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 10:57:09.9093 Info Configuration initialized.
+2023-09-05 11:05:01.6878 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 11:05:01.7456 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 11:05:01.7786 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 11:05:01.8038 Info Configuration initialized.
+2023-09-05 11:06:33.6676 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 11:06:33.7174 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 11:06:33.7429 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 11:06:33.7649 Info Configuration initialized.
+2023-09-05 11:08:17.8637 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 11:08:17.9106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 11:08:17.9436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 11:08:17.9729 Info Configuration initialized.
+2023-09-05 11:09:42.2671 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 11:09:42.3110 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 11:09:42.3430 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 11:09:42.3657 Info Configuration initialized.
+2023-09-05 11:10:54.5044 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 11:10:54.5640 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 11:10:54.5933 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 11:10:54.6223 Info Configuration initialized.
+2023-09-05 11:15:33.8786 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-09-05 11:15:33.9494 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-09-05 11:15:33.9889 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Güray\Desktop\c#\HastaKayıt\HastaKayıt\nlog.config
+2023-09-05 11:15:34.0166 Info Configuration initialized.
